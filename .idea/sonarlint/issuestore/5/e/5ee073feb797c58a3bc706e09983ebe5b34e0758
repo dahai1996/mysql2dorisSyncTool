@@ -1,0 +1,88 @@
+
+
+java:S1192_"sDefine a constant instead of duplicating this literal "                                \"jdbcType\": 93,
+" 4 times.(Íé˜±ıÿÿÿÿ
+u
+java:S1192-"`Define a constant instead of duplicating this literal "                            {
+" 43 times.(æÊ­
+“
+java:S1192`"}Define a constant instead of duplicating this literal "                                \"typeName\": \"DATETIME\",
+" 4 times.(”É›•
+‹
+java:S1192Â"oDefine a constant instead of duplicating this literal "                                \"scale\": 2,
+" 5 times.(¢ı…úÿÿÿÿ
+
+java:S1192½"rDefine a constant instead of duplicating this literal "                                \"jdbcType\": 3,
+" 5 times.(ƒÂ°›úÿÿÿÿ
+
+java:S1192§"qDefine a constant instead of duplicating this literal "                                \"length\": 64,
+" 5 times.(¡¦‡–üÿÿÿÿ
+š
+java:S1192¿"‚Define a constant instead of duplicating this literal "                                \"typeExpression\": \"DECIMAL\",
+" 5 times.(Ó†Š 
+“
+java:S1192¦"|Define a constant instead of duplicating this literal "                                \"typeName\": \"TINYINT\",
+" 3 times.(¸£Í
+˜
+java:S1192¾"|Define a constant instead of duplicating this literal "                                \"typeName\": \"DECIMAL\",
+" 5 times.(ÁÓÒ”ùÿÿÿÿ
+ˆ
+java:S1192Á"qDefine a constant instead of duplicating this literal "                                \"length\": 10,
+" 9 times.(­ÍÓ
+Ÿ
+java:S1192="ƒDefine a constant instead of duplicating this literal "                                \"typeExpression\": \"VARCHAR\",
+" 28 times.(ìİ»Ùøÿÿÿÿ
+˜
+java:S1192<"}Define a constant instead of duplicating this literal "                                \"typeName\": \"VARCHAR\",
+" 28 times.(¸Œôüùÿÿÿÿ
+
+java:S11922"yDefine a constant instead of duplicating this literal "                                \"charsetName\": null,
+" 15 times.(îö§ş
+’
+java:S11925"wDefine a constant instead of duplicating this literal "                                \"optional\": false,
+" 20 times.(ò»ÑÎüÿÿÿÿ
+Œ
+java:S1192?"qDefine a constant instead of duplicating this literal "                                \"length\": 32,
+" 9 times.(ïü•©úÿÿÿÿ
+|
+java:S11928"aDefine a constant instead of duplicating this literal "                            },
+" 42 times.(–Ÿóªıÿÿÿÿ
+
+java:S1192¥"rDefine a constant instead of duplicating this literal "                                \"jdbcType\": 5,
+" 3 times.(£³µ¤ÿÿÿÿÿ
+‘
+java:S1192o"vDefine a constant instead of duplicating this literal "                                \"optional\": true,
+" 23 times.(Î…ºÏùÿÿÿÿ
+Œ
+java:S11923"qDefine a constant instead of duplicating this literal "                                \"length\": 20,
+" 3 times.(‡ ˜›ûÿÿÿÿ
+š
+java:S1192§"‚Define a constant instead of duplicating this literal "                                \"typeExpression\": \"TINYINT\",
+" 3 times.(ê­¼Ñ
+
+java:S1192;"tDefine a constant instead of duplicating this literal "                                \"jdbcType\": 12,
+" 28 times.(ìÎ—ëÿÿÿÿÿ
+Ÿ
+java:S1192a"ƒDefine a constant instead of duplicating this literal "                                \"typeExpression\": \"DATETIME\",
+" 4 times.(¼˜÷Ëşÿÿÿÿ
+Œ
+java:S1192W"qDefine a constant instead of duplicating this literal "                                \"length\": 50,
+" 3 times.(Ò®’©ıÿÿÿÿ
+“
+java:S1192B"~Define a constant instead of duplicating this literal "                                \"autoIncremented\": false,
+" 42 times.(à°¹r
+“
+java:S1192>"}Define a constant instead of duplicating this literal "                                \"charsetName\": \"utf8\",
+" 28 times.(Ü’Àá
+
+java:S1192C"wDefine a constant instead of duplicating this literal "                                \"generated\": false
+" 42 times.(¹„Şœ
+‡
+java:S1192©"pDefine a constant instead of duplicating this literal "                                \"length\": 1,
+" 3 times.(ìÛØ
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òßêàúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤™ï×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿş«Ä
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(ßÇì£úÿÿÿÿ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(îŞÁÁüÿÿÿÿ

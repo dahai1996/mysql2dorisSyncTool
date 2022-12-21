@@ -1,0 +1,26 @@
+
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+a	java:S112ë"FDefine and throw a dedicated exception instead of using a generic one.(‘–Æ¿ÿÿÿÿÿ
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Êùø°
+a	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(±…Í®ûÿÿÿÿ
+a	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(ÆÍ¿äùÿÿÿÿ
+E
+java:S3740S"/Provide the parametrized type for this generic.(ğ×ÆĞ
+F
+java:S3740¹"/Provide the parametrized type for this generic.(ËÔ¤
+K
+java:S3740¾"/Provide the parametrized type for this generic.(õ’ş×şÿÿÿÿ
+]
+java:S2184Ü"FCast one of the operands of this multiplication operation to a "long".(€ìŞ
+
+java:S1186Ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùıæòûÿÿÿÿ
+r
+java:S3077_"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(øÀßÿÿÿÿÿ
+i
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Š‹öë
+o
+java:S2139·"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+Z
+java:S2276Ü"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€ìŞ
+”
+java:S5803é"~Remove this usage of "randomBackend", it is annotated with @VisibleForTesting and should not be accessed from production code.(à°l
