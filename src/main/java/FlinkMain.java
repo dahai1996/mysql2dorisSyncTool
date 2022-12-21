@@ -31,7 +31,7 @@ public class FlinkMain extends FlinkMainModel {
 
     public static void main(String[] args) throws Exception {
         ParameterTool pro =
-                getProFromJar(FlinkMain.class, "/mdw-mysql2dorisSyncTool_example.properties");
+                getProFromJar(FlinkMain.class, "/mdw-mysql2dorisSyncTool.properties");
 
         LOG.info("properties check:");
         LOG.info("##############################################################");
@@ -89,7 +89,8 @@ public class FlinkMain extends FlinkMainModel {
                 AssortDorisSink.Builder.build(tableColumnsMap, pro);
 
         TypeInformation<Tuple2<String, String>> of =
-                TypeInformation.of(new TypeHint<Tuple2<String, String>>() {});
+                TypeInformation.of(new TypeHint<Tuple2<String, String>>() {
+                });
 
         // 此处sink的并行度写死为1
         env.fromSource(source, WatermarkStrategy.noWatermarks(), "MySQL Source")
