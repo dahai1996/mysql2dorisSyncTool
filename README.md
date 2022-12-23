@@ -97,5 +97,5 @@
 1. git clone到本地,用idea打开
 2. 根据需求填写配置文件:mdw-mysql2dorisSyncTool.properties
 3. idea调试:勾选带入'provided'依赖选项即可
-4. 4执行 mvn clean package,得到程序包(包含所有依赖的包才是我们需要的)
+4. 执行 mvn clean package,得到程序包(包含所有依赖的包才是我们需要的)
 5. 到flink集群中,点击submit new job,提交包后,提交作业即可
