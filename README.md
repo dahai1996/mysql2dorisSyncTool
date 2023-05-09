@@ -22,7 +22,9 @@
 
 当前mysql中字段改名,doris中对应的表是新增一个同名字段.因为doris不支持字段改名.
 
-随着新版本doris增加了字段改名功能,后续此处将同步修改
+doris在1.2版本增加了字段改名功能,后续此处将同步修改.
+
+doris列重命名使用,见: https://doris.apache.org/zh-CN/docs/dev/sql-manual/sql-reference/Data-Definition-Statements/Alter/ALTER-TABLE-RENAME/
 
 ## 表结构同步变更功能说明
 
