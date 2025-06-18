@@ -35,7 +35,7 @@ under the License.
         <target.java.version>1.8</target.java.version>
         <scala.binary.version>2.12</scala.binary.version>
         <scala.version>2.12.15</scala.version>
-        <log4j.version>2.12.1</log4j.version>
+        <log4j.version>2.12.4</log4j.version>
         <hadoop.version>2.7.5</hadoop.version>
     </properties>
 
